@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "watch": true,
+        "outDir": "dist",
+        "target": "ES5",
+        "rootDir": "src",
+    },
+    "exclude": [
+        "node_modules"
+    ]
+
+}
